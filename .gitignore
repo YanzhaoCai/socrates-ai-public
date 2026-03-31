@@ -1,0 +1,27 @@
+# ============================================================
+# 使用说明：
+# 以下文件在项目初始化时为空模板，已被提交到仓库。
+# 当你开始使用并填入个人信息后，建议取消下方注释来保护隐私。
+# ============================================================
+
+# 个人身份信息（强烈建议填写后立即忽略）
+# teacher/learner_profile.md
+
+# 以下文件会随使用积累个人学习数据，视个人情况决定是否忽略
+# teacher/diary.md
+# teacher/wechat.md
+# teacher/wechat_unread.md
+# teacher/progress.md
+# teacher/haibara.md
+# teacher/book_revision_notes.md
+# teacher/session_archive.md
+# teacher/mock_interview.md
+# teacher/exam_bank.md
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code 本地配置
+.claude/
